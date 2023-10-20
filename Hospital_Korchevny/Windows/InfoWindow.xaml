@@ -1,0 +1,119 @@
+﻿<Window x:Class="Hospital_Korchevny.Windows.InfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hospital_Korchevny.Windows"
+        mc:Ignorable="d"
+        Title="InfoWindow" Height="500" Width="800"
+        WindowStartupLocation="CenterScreen"
+        Background="#FFB3E7FD"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="700"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="300"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <Image Grid.Row="0" Grid.Column="0"
+               Source="/Assets/Exit.png" Margin="0 0 0 0"
+               Height="95"
+               x:Name="BtnExit"></Image>
+
+        <Label Content="МОИ ДАННЫЕ" Grid.Row="0" Grid.Column="1"
+       Height="100" Width="450"
+       HorizontalContentAlignment="Center"
+       VerticalContentAlignment="Center"
+       FontSize="22" FontFamily="Segoe UI Black"
+       Foreground="#ffffff" Background="#FF12ACEE"/>
+
+        <Border BorderBrush="Gray" BorderThickness="1" Grid.Row="1" Grid.Column="0">
+            <StackPanel  >
+                <Label Content="ФИО"
+                   Height="50" Width="100"
+                   VerticalContentAlignment="Center"
+                   HorizontalAlignment="Center"
+                   HorizontalContentAlignment="Center"
+                   FontSize="12" FontFamily="Segoe UI "
+                   Background="#dcf4ff" BorderBrush="Gray" BorderThickness="1"/>
+                <Label Content="Дата рождения"
+                   Height="50" Width="100"
+                   VerticalContentAlignment="Center"
+                   HorizontalAlignment="Center"
+                   HorizontalContentAlignment="Center"
+                   FontSize="12" FontFamily="Segoe UI "
+                   Background="#dcf4ff"  BorderBrush="Gray" BorderThickness="1"/>
+                <Label Content="Телефон"
+                       Height="50" Width="100"
+                       VerticalContentAlignment="Center"
+                       HorizontalAlignment="Center"
+                       HorizontalContentAlignment="Center"
+                       FontSize="12" FontFamily="Segoe UI "
+                       Background="#dcf4ff"  BorderBrush="Gray" BorderThickness="1"/>
+                <Label Content="Пол"
+                       Height="50" Width="100"
+                       VerticalContentAlignment="Center"
+                       HorizontalAlignment="Center"
+                       HorizontalContentAlignment="Center"
+                       FontSize="12" FontFamily="Segoe UI "
+                       Background="#dcf4ff"  BorderBrush="Gray" BorderThickness="1"/>
+
+                <Label Content="Адрес"
+                       Height="50" Width="100"
+                       VerticalContentAlignment="Center"
+                       HorizontalAlignment="Center"
+                       HorizontalContentAlignment="Center"
+                       FontSize="12" FontFamily="Segoe UI "
+                       Background="#dcf4ff"  BorderBrush="Gray" BorderThickness="1"/>
+                <Label Content="Почта"
+                       Height="50" Width="100"
+                       VerticalContentAlignment="Center"
+                       HorizontalAlignment="Center"
+                       HorizontalContentAlignment="Center"
+                       FontSize="12" FontFamily="Segoe UI "
+                       Background="#dcf4ff"  BorderBrush="Gray" BorderThickness="1"/>
+            </StackPanel>
+
+        </Border>
+        <ListView x:Name="LvInfo" Grid.Row="1" Grid.Column="1"
+                      Background="#dcf4ff"
+                      BorderBrush="Gray"
+                      BorderThickness="1" 
+                      d:ItemsSource="{d:SampleData ItemCount=5}"
+                      ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="Padding" Value="0"/>
+                    <Setter Property="Margin" Value="0"/>
+                    <Setter Property="BorderThickness" Value="0"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel  >
+                        <Border BorderBrush="Gray" BorderThickness="0.4">
+                            <TextBlock Height="50"
+                                       Width="700"/>
+                        </Border>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal">
+            <Button x:Name="BtnBack" 
+                    Height="45" Width="175"
+                    Content="НАЗАД" 
+                    Style="{DynamicResource BtnStyle}"
+                    Margin="110 0 0 40"/>
+            <Button x:Name="BtnEdit" 
+                    Height="45" Width="175"
+                    Content="ИЗМЕНИТЬ" 
+                    Style="{DynamicResource BtnStyle}"
+                    Margin="200 0 0 40"/>
+        </StackPanel>
+    </Grid>
+</Window>

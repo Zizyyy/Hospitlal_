@@ -1,0 +1,78 @@
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\bin\Debug\Hospital_Korchevny.exe.config
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\bin\Debug\Hospital_Korchevny.exe
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\bin\Debug\Hospital_Korchevny.pdb
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.csproj.AssemblyReference.cache
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\App.g.cs
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny_MarkupCompile.cache
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny_MarkupCompile.lref
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.g.resources
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.Properties.Resources.resources
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.csproj.GenerateResource.cache
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.csproj.CoreCompileInputs.cache
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.exe
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.pdb
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Login.g.cs
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Login.baml
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Resources\ButtonStyle.baml
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Resources\Tb.baml
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Resources\TextBlockStyle.baml
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\App.baml
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Resources\PasswordBoxStyle.baml
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Registration.g.cs
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Registration.baml
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\InfoWindow.g.cs
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Main.g.cs
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\InfoWindow.baml
+C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Main.baml
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\bin\Debug\Hospital_Korchevny.exe.config
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\bin\Debug\Hospital_Korchevny.exe
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\bin\Debug\Hospital_Korchevny.pdb
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.csproj.AssemblyReference.cache
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Resources\ButtonStyle.baml
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Resources\PasswordBoxStyle.baml
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Resources\Tb.baml
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Resources\TextBlockStyle.baml
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Windows\InfoWindow.g.cs
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Windows\Login.g.cs
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Windows\Main.g.cs
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Windows\Registration.g.cs
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\App.g.cs
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Hospital_Korchevny_MarkupCompile.cache
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Hospital_Korchevny_MarkupCompile.lref
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\App.baml
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Windows\InfoWindow.baml
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Windows\Login.baml
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Windows\Main.baml
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Windows\Registration.baml
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.g.resources
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.Properties.Resources.resources
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.csproj.GenerateResource.cache
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.csproj.CoreCompileInputs.cache
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.exe
+C:\Users\Popcika\Desktop\Новая папка\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.pdb
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\bin\Debug\Hospital_Korchevny.exe.config
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\bin\Debug\Hospital_Korchevny.exe
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\bin\Debug\Hospital_Korchevny.pdb
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.csproj.AssemblyReference.cache
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Resources\ButtonStyle.baml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Resources\PasswordBoxStyle.baml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Resources\Tb.baml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Resources\TextBlockStyle.baml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\InfoWindow.g.cs
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Login.g.cs
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Main.g.cs
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Registration.g.cs
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\App.g.cs
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny_MarkupCompile.cache
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny_MarkupCompile.lref
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\App.baml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\InfoWindow.baml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Login.baml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Main.baml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Registration.baml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.g.resources
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.Properties.Resources.resources
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.csproj.GenerateResource.cache
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.csproj.CoreCompileInputs.cache
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.exe
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.pdb
