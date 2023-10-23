@@ -60,7 +60,6 @@ D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Resources\Tb.baml
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Resources\TextBlockStyle.baml
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\InfoWindow.g.cs
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Login.g.cs
-D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Main.g.cs
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Registration.g.cs
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\App.g.cs
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny_MarkupCompile.cache
@@ -68,7 +67,6 @@ D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny_Mark
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\App.baml
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\InfoWindow.baml
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Login.baml
-D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Main.baml
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\Registration.baml
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.g.resources
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.Properties.Resources.resources
@@ -76,3 +74,15 @@ D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.cspr
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.csproj.CoreCompileInputs.cache
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.exe
 D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.pdb
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Resources\ScrollBarStyle.baml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\MainWindow.g.cs
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\UpcomingRegistration.g.cs
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\MainWindow.baml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Windows\UpcomingRegistration.baml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\bin\Debug\EntityFramework.dll
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\bin\Debug\EntityFramework.SqlServer.dll
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\bin\Debug\EntityFramework.xml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\bin\Debug\EntityFramework.SqlServer.xml
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\bin\Debug\ru\EntityFramework.resources.dll
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny_Content.g.cs
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\Hospital_Korchevny.csproj.CopyComplete

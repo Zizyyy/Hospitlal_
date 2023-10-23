@@ -1,5 +1,8 @@
-﻿using System;
+﻿using Hospital_Korchevny.ClassHelper;
+using Hospital_Korchevny.DB;
+using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,6 +25,13 @@ namespace Hospital_Korchevny.Windows
         public InfoWindow()
         {
             InitializeComponent();
+        }
+
+        private void BtnBack_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+            this.Close();
         }
     }
 }

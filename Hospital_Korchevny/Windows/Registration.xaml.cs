@@ -19,9 +19,23 @@ namespace Hospital_Korchevny.Windows
     /// </summary>
     public partial class Registration : Window
     {
+        Login login = new Login();
+       
         public Registration()
         {
             InitializeComponent();
+        }
+
+        private void BtnRegistration_Click(object sender, RoutedEventArgs e)
+        {
+            login.Show();
+            this.Close();
+        }
+
+        private void BtnBack_Click(object sender, RoutedEventArgs e)
+        {
+            login.Show();
+            this.Close();
         }
     }
 }

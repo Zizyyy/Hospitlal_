@@ -44,12 +44,12 @@
                         Height="35" Width="175"
                         Content="ЗАРЕГЕСТРИРОВАТЬСЯ" 
                         Style="{DynamicResource BtnStyle}"
-                        Margin="10 0 0 0"/>
+                        Margin="10 0 0 0" Click="BtnRegistration_Click"/>
                 <Button x:Name="BtnLog" 
                         Height="35" Width="175"
                         Content="ВОЙТИ" 
                         Style="{DynamicResource BtnStyle}"
-                        Margin="33 0 0 0"/>     
+                        Margin="33 0 0 0" Click="BtnLog_Click"/>     
             </StackPanel>
         </StackPanel>
     </Grid>

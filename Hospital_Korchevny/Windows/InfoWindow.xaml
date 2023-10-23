@@ -79,7 +79,7 @@
             </StackPanel>
 
         </Border>
-        <ListView x:Name="LvInfo" Grid.Row="1" Grid.Column="1"
+        <!--<ListView x:Name="LvInfo" Grid.Row="1" Grid.Column="1"
                       Background="#dcf4ff"
                       BorderBrush="Gray"
                       BorderThickness="1" 
@@ -97,18 +97,66 @@
                     <StackPanel  >
                         <Border BorderBrush="Gray" BorderThickness="0.4">
                             <TextBlock Height="50"
-                                       Width="700"/>
+                                       Width="700" Text="{Binding FName}"/>
                         </Border>
                     </StackPanel>
                 </DataTemplate>
             </ListView.ItemTemplate>
-        </ListView>
+        </ListView>-->
+
+        <StackPanel Grid.Row="1"
+                    Grid.Column="1" >
+            <Border BorderBrush="Gray"
+                    BorderThickness="2">
+                <TextBlock x:Name="TbFname"
+                       Height="45" Width="700"
+                       Background="#dcf4ff"
+                       Text="{Binding FName}"/>
+            </Border>
+
+            <Border BorderBrush="Gray"
+                    BorderThickness="2">
+                <TextBlock x:Name="TbLName"
+                           Height="50" Width="700"
+                           Background="#dcf4ff"
+                           Text="{Binding Path=DateOfBirthday}"/>
+            </Border>
+            <Border BorderBrush="Gray"
+                    BorderThickness="2">
+                <TextBlock x:Name="TbPhone"
+                           Height="45" Width="700"
+                           Background="#dcf4ff"
+                           Text="{Binding Path=Phone}"/>
+            </Border>
+            <Border BorderBrush="Gray"
+                    BorderThickness="2">
+                <TextBlock x:Name="TbGender"
+                           Height="45" Width="700"
+                           Background="#dcf4ff"
+                           Text="{Binding Path=Gender}"/>   
+            </Border>
+            <Border BorderBrush="Gray"
+                    BorderThickness="2">
+                <TextBlock x:Name="TbAddress"
+                           Height="50" Width="700"
+                           Background="#dcf4ff"
+                           Text="{Binding Path=Address}"/>  
+            </Border>
+            <Border BorderBrush="Gray"
+                    BorderThickness="2">
+                <TextBlock x:Name="TbEmail"
+                           Height="45" Width="700"
+                           Background="#dcf4ff"
+                           Text="{Binding Path=Email}"/>
+            </Border>
+
+        </StackPanel>
         <StackPanel Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal">
             <Button x:Name="BtnBack" 
                     Height="45" Width="175"
                     Content="НАЗАД" 
                     Style="{DynamicResource BtnStyle}"
-                    Margin="110 0 0 40"/>
+                    Margin="110 0 0 40" Click="BtnBack_Click"/>
             <Button x:Name="BtnEdit" 
                     Height="45" Width="175"
                     Content="ИЗМЕНИТЬ" 

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\obj\Debug\
 Hospital_Korchevny
 none
 false
 DEBUG;TRACE
-C:\Users\Преподаватель\source\repos\Hospital_Korchevny\Hospital_Korchevny\App.xaml
-8498986598
+D:\Works\Hospital_Korchevny\Hospital_Korchevny\App.xaml
+10477610042
+2-973498431
+29527051088
+18371605641
+Resources\ButtonStyle.xaml;Resources\PasswordBoxStyle.xaml;Resources\ScrollBarStyle.xaml;Resources\Tb.xaml;Resources\TextBlockStyle.xaml;Windows\InfoWindow.xaml;Windows\Login.xaml;Windows\MainWindow.xaml;Windows\Registration.xaml;Windows\UpcomingRegistration.xaml;
 
-9490485595
-13-1310406943
-Resources\ButtonStyle.xaml;Resources\PasswordBoxStyle.xaml;Resources\Tb.xaml;Resources\TextBlockStyle.xaml;Windows\InfoWindow.xaml;Windows\Login.xaml;Windows\Main.xaml;Windows\Registration.xaml;
-
-True
+False
 
